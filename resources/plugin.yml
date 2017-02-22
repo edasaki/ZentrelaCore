@@ -1,0 +1,6 @@
+name: SakiCore
+main: com.edasaki.core.SakiCore
+version: 1.0
+description: Zentrela Core
+author: Edasaki
+commands:
